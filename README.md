@@ -1,4 +1,4 @@
-# Hey there, Welcome to the Glace Development Github 🤠
+# Hey there, Welcome to the Glace GitHub 🤠
 
 we're full of roblox developers & programming nerds
 
