@@ -3,7 +3,7 @@
 we're full of roblox developers & programming nerds
 
 * [Nicholas](https://github.com/Nickanda) (Lead of Development)
-* [Kevin](https://github.com/uhKevinMC") (Co-Lead of Development)
+* [Kevin](https://github.com/uhKevinMC) (Co-Lead of Development)
 * [Brenden](https://github.com/PizzaGam0r) (Development Intern)
 
 ## 🧠 We know these...
